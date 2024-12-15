@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Économie selon la Bible - N'DOLI Yao Franck-Abel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0073e6;
+        }
+        .content-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .content-box {
+            flex: 1;
+            margin: 10px;
+            padding: 20px;
+            background-color: #fafafa;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        .social-links a {
+            margin: 0 10px;
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Économie selon la Bible</h1>
+        <p>Par N'DOLI Yao Franck-Abel - Economiste et visionnaire</p>
+    </header>
+
+    <section id="biographie">
+        <h2>Biographie</h2>
+        <p>Je suis N'DOLI Yao Franck-Abel, titulaire d'un mastère spécialisé en économie et statistique appliquée à l'entreprise de Global Tech University en Espagne. De nationalité ivoirienne, je suis économiste et ma vision est de faire sortir l'économie des pays en voie de développement du chaos pour la mener parmi les premières puissances mondiales, en mettant l'accent sur le changement de mentalité des populations africaines. Ma mission est de faire connaître d'autres possibilités pour la bonne gestion de notre économie grâce aux textes sacrés de la Bible.</p>
+    </section>
+
+    <section id="competences">
+        <h2>Compétences</h2>
+        <ul>
+            <li>Analyse des finances publiques et des politiques économiques</li>
+        </ul>
+    </section>
+
+    <section id="projets">
+        <h2>Projets</h2>
+        <div class="content-container">
+            <div class="content-box">
+                <h3>1. Coalition entre l'origine de l'économie biblique et l'origine de notre économie africaine</h3>
+                <p>Explorer les liens entre l'économie selon la Bible et l'origine de l'économie en Afrique.</p>
+            </div>
+            <div class="content-box">
+                <h3>2. Les lois fondamentales de l'économie selon Dieu</h3>
+                <p>Identifier les lois économiques divines et leur impact sur la gestion économique.</p>
+            </div>
+            <div class="content-box">
+                <h3>3. Application des lois divines dans nos économies pour une économie sans faillite</h3>
+                <p>Étudier l'exemple de Joseph pour créer un modèle économique solide et durable.</p>
+            </div>
+            <div class="content-box">
+                <h3>4. Présentation de notre nouvelle économie</h3>
+                <p>Présenter un modèle économique basé sur des principes bibliques pour transformer l'économie africaine.</p>
+            </div>
+            <div class="content-box">
+                <h3>5. Publication de notre nouvelle économie sur les réseaux sociaux</h3>
+                <p>Diffuser notre modèle économique via les réseaux sociaux pour toucher un large public.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="passions">
+        <h2>Passions</h2>
+        <p>Je suis passionné par la recherche approfondie pour trouver des solutions adéquates et les publier sur Internet, afin de contribuer positivement à la gestion économique des pays en développement.</p>
+    </section>
+
+    <section id="reseaux-sociaux">
+        <h2>Réseaux sociaux</h2>
+        <div class="social-links">
+            <a href="https://www.instagram.com/ndoli696?igsh=aWRwb2xleDRva296" target="_blank">Instagram</a>
+            <a href="https://www.facebook.com/share/15NHy8jhT7/" target="_blank">Facebook</a>
+            <a href="https://www.linkedin.com/in/yao-franck-abel-n-doli-aaa37428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 N'DOLI Yao Franck-Abel - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
